@@ -1,0 +1,11 @@
+.inputBuscador{
+
+    display: flex;
+    justify-content: center;
+    margin: 3rem auto;
+    height: 5rem;
+    border-radius: 30px;
+    padding: 1rem;
+    font-size: 1.5rem;
+    
+}
