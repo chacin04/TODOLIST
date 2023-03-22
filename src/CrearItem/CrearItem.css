@@ -3,7 +3,7 @@
 
 .crearTarea {
     background-color: rgb(223, 223, 164);
-    box-shadow: 2px 5px 25px rgb(223, 223, 164);
+    box-shadow: 2px 5px 25px rgb(178, 68, 241);
     border: none;
     border-radius: 50% ;
     cursor: pointer;
@@ -32,7 +32,7 @@
   @media(min-width:700px){
     .crearTarea {
         background-color: rgb(223, 223, 164);
-        box-shadow: 2px 5px 25px rgb(223, 223, 164);
+        box-shadow: 2px 5px 25px rgb(178, 68, 241);
         border: none;
         border-radius: 50%;
         cursor: pointer;
