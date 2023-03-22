@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/https//chacin04.github.io/TODOLIST/static/css/main.7a2947dc.css",
+    "main.js": "/https//chacin04.github.io/TODOLIST/static/js/main.c84421f6.js",
+    "static/js/787.232b9e77.chunk.js": "/https//chacin04.github.io/TODOLIST/static/js/787.232b9e77.chunk.js",
+    "static/media/Fondo.svg": "/https//chacin04.github.io/TODOLIST/static/media/Fondo.480fd64692f014110da8.svg",
+    "static/media/LOGO.svg": "/https//chacin04.github.io/TODOLIST/static/media/LOGO.92cbc703a160a7655878d254163b30a2.svg",
+    "index.html": "/https//chacin04.github.io/TODOLIST/index.html",
+    "main.7a2947dc.css.map": "/https//chacin04.github.io/TODOLIST/static/css/main.7a2947dc.css.map",
+    "main.c84421f6.js.map": "/https//chacin04.github.io/TODOLIST/static/js/main.c84421f6.js.map",
+    "787.232b9e77.chunk.js.map": "/https//chacin04.github.io/TODOLIST/static/js/787.232b9e77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a2947dc.css",
+    "static/js/main.c84421f6.js"
+  ]
+}
